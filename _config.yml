@@ -30,8 +30,8 @@ force-https: True
 
 lang: "en"
 author: "Kirk Clemons"
-title: "Kirk Clemons"
-description: "Front-end web developer and designer, providing custom websites and media for peronal and small businesses."
+title: "Front-end Web Developer // Digital Artist - Kirk Clemons"
+description: "Front-end web developer and digital artist, providing custom websites and media for peronal and small businesses."
 keywords: "clemons, kirk, web, developer, front, end, design, graphics, freelance, hire"
 favicon: "/img/favicon.ico"
 
@@ -130,12 +130,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/nga-logo-156.png"
+    date: "May 2017"
+    description: "New website for <a href='http://ngamfg.com/' target='_blank'>Next Generation Arms Manufacturing</a>"
+  - image: "/img/timeline/panhandle-logworks-156.png"
+    date: "November 2016"
+    description: "New Wordpress site for <a href='https://panhandlelogworks.com/' target='_blank'>Panhandle Logworks</a>"
 
 # First image of the Timeline
 
@@ -165,8 +165,8 @@ author_blurb_image: "/img/author.png"
 social:
   - title: "github"
     url: "https://github.com/kcclemo"
-  - title: "rss"
-    url: "/feed.xml"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/kirkclemons/"
 
 ############
 # 404 page #
@@ -191,7 +191,7 @@ keybase-in-footer: False
 pages_list:
   About: 'about'
   # Blog: 'latest-post'
-  Timeline: 'timeline'
+  Experience: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
