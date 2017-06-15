@@ -104,7 +104,7 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-enable-gesture-navigation: True
+enable-gesture-navigation: false
 
 post-preview-words: 96
 
@@ -133,12 +133,15 @@ events:
   - image: "/img/timeline/nga-logo-156.png"
     date: "May 2017"
     description: "<a href='http://ngamfg.com/' target='_blank'>Next Generation Arms Manufacturing</a>"
+    link: "/ngamfg/"
   - image: "/img/timeline/panhandle-logworks-156.png"
     date: "November 2016"
     description: "<a href='https://panhandlelogworks.com/' target='_blank'>Panhandle Logworks</a>"
+    link: ""
   - image: "/img/timeline/northstar_logo_blk.png"
     date: "October 2013"
     description: "<a href='https://northstarbaptistchurch.org/' target='_blank'>NorthStar Baptist Church</a>"
+    link: ""
 
 # First image of the Timeline
 
