@@ -139,10 +139,14 @@ events:
     date: "November 2016"
     description: "<a href='https://panhandlelogworks.com/' target='_blank'>Panhandle Logworks</a>"
     link: "/panhandlelogworks/"
+    - image: "/img/timeline/joel-clark-knives.png"
+    date: "November 2013"
+    description: "<a href='http://joelclarkknives.com/' target='_blank'>Joel Clark Custom Knives</a>"
+    link: "/joelclarkknives/"
   - image: "/img/timeline/northstar_logo_blk.png"
     date: "October 2013"
     description: "<a href='https://northstarbaptistchurch.org/' target='_blank'>NorthStar Baptist Church</a>"
-    link: ""
+    link: "/northstarbaptistchurch/"
 
 # First image of the Timeline
 
