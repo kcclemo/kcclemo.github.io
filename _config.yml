@@ -22,7 +22,7 @@ google-tracking-id: ""
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+force-https: False
 
 #############
 # HTML Head #
@@ -53,7 +53,7 @@ loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
-delete-delay: 5000
+delete-delay: 3000
 lines: # You can add HTML Tags in the Text
   - text: "Front-end Web Developer // Digital Artist"
   - text: "HTML // CSS // JavaScript // PHP"
@@ -138,7 +138,7 @@ events:
   - image: "/img/timeline/panhandle-logworks-156.png"
     date: "November 2016"
     description: "<a href='https://panhandlelogworks.com/' target='_blank'>Panhandle Logworks</a>"
-    link: ""
+    link: "/panhandlelogworks/"
   - image: "/img/timeline/northstar_logo_blk.png"
     date: "October 2013"
     description: "<a href='https://northstarbaptistchurch.org/' target='_blank'>NorthStar Baptist Church</a>"
