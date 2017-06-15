@@ -132,10 +132,13 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/nga-logo-156.png"
     date: "May 2017"
-    description: "New website for <a href='http://ngamfg.com/' target='_blank'>Next Generation Arms Manufacturing</a>"
+    description: "<a href='http://ngamfg.com/' target='_blank'>Next Generation Arms Manufacturing</a>"
   - image: "/img/timeline/panhandle-logworks-156.png"
     date: "November 2016"
-    description: "New Wordpress site for <a href='https://panhandlelogworks.com/' target='_blank'>Panhandle Logworks</a>"
+    description: "<a href='https://panhandlelogworks.com/' target='_blank'>Panhandle Logworks</a>"
+  - image: "/img/timeline/northstar_logo_blk.png"
+    date: "October 2013"
+    description: "<a href='https://northstarbaptistchurch.org/' target='_blank'>NorthStar Baptist Church</a>"
 
 # First image of the Timeline
 
