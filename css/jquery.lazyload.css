@@ -1,0 +1,32 @@
+/**
+ * A jQuery plugin that help you improve your overall site performance.
+ * LazyLoader v1.0.0 (https://github.com/RobinBertilsson/jquery-lazyload)
+ * Copyright 2017.
+ * Licensed under the MIT license
+ */
+
+img.lazy-load {
+	width: 100%;
+	opacity: .95;
+}
+
+img.lazy-success {
+	animation-fill-mode: forwards;
+	animation-iteration-count: 1;
+	animation-duration: .6s;
+	animation-name: fade-in;
+	animation-delay: .1s;
+	position: absolute;
+	opacity: 0;
+	left: 0;
+	top: 0;
+}
+
+@keyframes fade-in {
+    from {
+    	opacity: 0;
+    }
+    to {
+    	opacity: 1;
+    }
+}
