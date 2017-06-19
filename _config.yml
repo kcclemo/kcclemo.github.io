@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/coffee-dev-bw.svg"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -57,6 +57,7 @@ delete-delay: 3000
 lines: # You can add HTML Tags in the Text
   - text: "Front-end Web Developer // Digital Artist"
   - text: "HTML // CSS // JavaScript // PHP"
+  - text: "3D Rendering // Printable Media // Graphics"
 
 # me-img: "/img/jetpacktocat.png"
 
@@ -122,7 +123,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: ""
 
 syntax-highlight: True
 
@@ -187,15 +188,15 @@ social:
 # 404 page #
 ############
 
-err-404-img: "/img/labtocat.png"
+err-404-img: "/img/favicon.ico"
 
 ##################
 # GPG on Keybase #
 ##################
 
 keybase-username: kcclemo
-keybase-in-social: False
-keybase-in-footer: False
+keybase-in-social: True
+keybase-in-footer: True
 
 ################################################################################
 
