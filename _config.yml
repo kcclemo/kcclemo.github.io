@@ -39,7 +39,7 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/coffee-dev-bw.svg"
+black-favicon: "/img/mug-bw.svg"
 
 background-img: "../img/intro-bg.jpg"
 
