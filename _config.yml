@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "http://localhost:4000"
+url: "https://kcclemo.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -135,27 +135,27 @@ events:
   - image: "/img/timeline/nga-logo-156.png"
     date: "May 2017"
     description: "<a href='http://ngamfg.com/' target='_blank'>Next Generation Arms Manufacturing</a>"
-    link: "/ngamfg/"
+    link: "./ngamfg/"
   - image: "/img/timeline/panhandle-logworks-156.png"
     date: "November 2016"
     description: "<a href='https://panhandlelogworks.com/' target='_blank'>Panhandle Logworks</a>"
-    link: "/panhandlelogworks/"
+    link: "./panhandlelogworks/"
   - image: "/img/timeline/cabin-fever-crafts.jpg"
     date: "November 2013"
     description: "<a href='http://cabinfevercrafts.net/' target='_blank'>Cabin Fever Crafts</a>"
-    link: "/cabinfevercrafts/"
+    link: "./cabinfevercrafts/"
   - image: "/img/timeline/joel-clark-knives.png"
     date: "November 2013"
     description: "<a href='http://joelclarkknives.com/' target='_blank'>Joel Clark Custom Knives</a>"
-    link: "/joelclarkknives/"
+    link: "./joelclarkknives/"
   - image: "/img/timeline/northstar_logo_blk.png"
     date: "October 2013"
     description: "<a href='https://northstarbaptistchurch.org/' target='_blank'>NorthStar Baptist Church</a>"
-    link: "/northstarbaptistchurch/"
+    link: "./northstarbaptistchurch/"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/mug.jpg"
 
 ###########
 # Contact #
