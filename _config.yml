@@ -180,12 +180,9 @@ author_blurb_image: "/img/author.png"
 # Social Buttons #
 ##################
 
-social:
-  - title: "github"
-    url: "https://github.com/kcclemo"
-  - title: "linkedin"
-    url: "https://www.linkedin.com/in/kirkclemons/"  - title: "gitter"    url: "https://gitter.im/kcclemo"
-
+social:# title should equal the font awesome icon name you want to use.
+  - title: "linkedin"    url: "https://www.linkedin.com/in/kirkclemons/"  - title: "github"    url: "https://github.com/kcclemo"  - title: "user-circle-o"    url: "https://gitter.im/kcclemo"
+  - title: "rss"    url: /feed.xml
 ############
 # 404 page #
 ############
@@ -197,7 +194,7 @@ err-404-img: "/img/favicon.ico"
 ##################
 
 keybase-username: kcclemo
-keybase-in-social: True
+keybase-in-social: False
 keybase-in-footer: True
 
 ################################################################################
