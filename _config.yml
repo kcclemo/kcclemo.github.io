@@ -114,16 +114,16 @@ post-preview-words: 96
 
 paginate: 5
 
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+email-share: False
+fb-share: False
+twitter-share: False
+linkedin-share: False
+reddit-share: False
+google-plus-share: False
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
 
 # disqus-shortname: ""
 
@@ -180,12 +180,9 @@ author_blurb_image: "/img/author.png"
 # Social Buttons #
 ##################
 
-social:
-  - title: "github"
-    url: "https://github.com/kcclemo"
-  - title: "linkedin"
-    url: "https://www.linkedin.com/in/kirkclemons/"
-
+social:# title should equal the font awesome icon name you want to use.
+  - title: "linkedin"    url: "https://www.linkedin.com/in/kirkclemons/"  - title: "github"    url: "https://github.com/kcclemo"  - title: "user-circle"    url: "https://gitter.im/kcclemo"
+  - title: "rss"    url: /feed.xml
 ############
 # 404 page #
 ############
@@ -197,7 +194,7 @@ err-404-img: "/img/favicon.ico"
 ##################
 
 keybase-username: kcclemo
-keybase-in-social: True
+keybase-in-social: False
 keybase-in-footer: True
 
 ################################################################################
