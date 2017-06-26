@@ -181,8 +181,10 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:# title should equal the font awesome icon name you want to use.
-  - title: "linkedin"    url: "https://www.linkedin.com/in/kirkclemons/"  - title: "github"    url: "https://github.com/kcclemo"  - title: "user-circle"    url: "https://gitter.im/kcclemo"
-  - title: "rss"    url: /feed.xml
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/kirkclemons/"  - title: "github"    url: "https://github.com/kcclemo"  - title: "user-circle-o"    url: "https://gitter.im/kcclemo"
+  - title: "rss"
+    url: /feed.xml
 ############
 # 404 page #
 ############
