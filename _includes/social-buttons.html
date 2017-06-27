@@ -1,11 +1,12 @@
 <!-- Social Buttons Start -->
 
-<ul class="list-inline social-buttons">
+<ul class="list-inline social-buttons" itemscope="" itemtype="http://schema.org/Organization">
+    <meta itemprop="url" content="https://kirkclemons.tk">
     {% for network in site.social %}
-    <li><a href="{{ network.url }}" target="_blank"><i class="fa fa-{{ network.title }} fa-fw"></i></a></li>
+    <li itemscope itemtype="http://schema.org/Person"><a title="{{ network.title }}" href="{{ network.url }}" target="_blank" rel="me" itemprop="sameAs"><i class="fa fa-{{ network.title }} fa-fw" role="img"></i></a></li>
     {% endfor %}
     {% if site.keybase-in-social %}
-    <li><a href="https://keybase.io/{{site.keybase-username}}" target="_blank"><i class="fa fa-key fa-fw"></i></a></li>
+    <li itemscope itemtype="http://schema.org/Person"><a href="https://keybase.io/{{site.keybase-username}}" target="_blank" rel="me" itemprop="sameAs"><i class="fa fa-key fa-fw" role="img"></i></a></li>
     {% endif %}
 </ul>
 
