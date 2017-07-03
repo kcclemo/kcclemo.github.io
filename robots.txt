@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow:
+Disallow: /css
+Disallow: /js
+Allow: /img
+Allow: /
+
+Sitemap: https://kirkclemons.tk/sitemap.xml
