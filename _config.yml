@@ -49,16 +49,16 @@ background-img: "../img/intro-bg.jpg"
 
 dynamic-typing: True
 shuffle: False # Shuffle the lines.
-loop: True
+loop: False
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 10
+type-speed: 20
 start-delay: 200
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
-  - text: "Front-end Web Developer // Digital Artist"
-  - text: "Website Setup // Design // Development"
-  - text: "HTML // CSS // JavaScript // PHP"
-  - text: "3D Rendering // Printable Media // Graphics"
+  - text: "Front-end Web Developer // Digital Artist<br>Website Setup // Design // Development<br>HTML // CSS // JavaScript // PHP<br>3D Rendering // Printable Media // Graphics"
+  # - text: "Website Setup // Design // Development"
+  # - text: "HTML // CSS // JavaScript // PHP"
+  # - text: "3D Rendering // Printable Media // Graphics"
 
 
 # me-img: "/img/jetpacktocat.png"
