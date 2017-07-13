@@ -9,6 +9,9 @@
             <h1 class="brand-heading">&nbsp;</h1>
             <h1 class="brand-heading">&nbsp;</h1>
             <span class="intro-text">{{ content }}</span>
+            <noscript>
+                <span class="developer-title">{{ content }}</span>
+            </noscript>
             <h5>&nbsp;</h5>
             <a href="#{{ site.pages_list['About'] }}" class="page-scroll">
               {% if site.me-img contains "https://" %}
