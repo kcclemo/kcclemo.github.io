@@ -55,10 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
-  - text: "Front-end Web Developer // Digital Artist"
-  - text: "Website Setup // Design // Development"
-  - text: "HTML // CSS // JavaScript // PHP"
-  - text: "3D Rendering // Printable Media // Graphics"
+  - text: "Front-end Web Developer // Digital Artist<br>Website Setup // Design // Development<br>HTML // CSS // JavaScript // PHP<br>3D Rendering // Printable Media // Graphics"
+  # - text: "Website Setup // Design // Development"
+  # - text: "HTML // CSS // JavaScript // PHP"
+  # - text: "3D Rendering // Printable Media // Graphics"
 
 
 # me-img: "/img/jetpacktocat.png"
