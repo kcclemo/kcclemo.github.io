@@ -30,8 +30,8 @@ force-https: False
 
 lang: "en"
 author: "Kirk Clemons"
-title: "Front-end Web Developer // Digital Artist - Kirk Clemons"
-description: "Front-end web developer and digital artist, providing custom websites and media for peronal and small businesses."
+title: "Front End Web Developer // Digital Artist - Kirk Clemons"
+description: "Front end web developer and digital artist, providing custom websites and media for peronal and small businesses."
 keywords: "clemons, kirk, web, developer, front, end, design, graphics, freelance, hire"
 favicon: "/img/favicon.ico"
 
@@ -51,7 +51,7 @@ dynamic-typing: True
 shuffle: False # Shuffle the lines.
 loop: False
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 20
+type-speed: 40
 start-delay: 200
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
@@ -169,7 +169,7 @@ email: "kirk.clemons@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Kirk Clemons is a front-end web developer and digital artist located in beautiful Coeur d'Alene, Idaho. Kirk loves to spend time with his wife and three kids, write code, and make things."
+author_blurb: "Kirk Clemons is a front end web developer and digital artist located in beautiful Coeur d'Alene, Idaho. Kirk loves to spend time with his wife and three kids, write code, and make things."
 author_blurb_image: "/img/author.png"
 
 ##################
