@@ -130,10 +130,6 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/nga-logo-156.png"
-    date: ""
-    description: "<a href='./ngamfg/'>Next Generation Arms Manufacturing</a>"
-    link: "./ngamfg/"
   - image: "/img/timeline/panhandle-logworks-156.png"
     date: ""
     description: "<a href='./panhandlelogworks/'>Panhandle Logworks</a>"
