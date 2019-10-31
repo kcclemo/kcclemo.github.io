@@ -30,9 +30,9 @@ force-https: False
 
 lang: "en"
 author: "Kirk Clemons"
-title: "Front End Web Developer // Digital Artist - Kirk Clemons"
-description: "Front end web developer and digital artist, providing custom websites and media for peronal and small businesses."
-keywords: "clemons, kirk, web, developer, front, end, design, graphics, freelance, hire"
+title: "Kirk Clemons | Web Development and Graphics Design"
+description: "Kirk Clemons"
+keywords: "web, developer, frontend, design, graphics, freelance, hire, responsive,"
 favicon: "/img/favicon.ico"
 
 ################
@@ -146,6 +146,10 @@ events:
     date: ""
     description: "<a href='./northstarbaptistchurch/'>NorthStar Baptist Church</a>"
     link: "./northstarbaptistchurch/"
+  - image: "/img/timeline/slto-logo.jpg"
+    date: ""
+    description: "<a href='./seelemonsthinkoils/'>See Lemons Think Oils</a>"
+    link: "./seelemonsthinkoils/"
 
 # First image of the Timeline
 
