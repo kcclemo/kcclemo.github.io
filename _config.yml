@@ -130,6 +130,10 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/slto-logo.jpg"
+    date: ""
+    description: "<a href='./seelemonsthinkoils/'>See Lemons Think Oils</a>"
+    link: "./seelemonsthinkoils/"
   - image: "/img/timeline/panhandle-logworks-156.png"
     date: ""
     description: "<a href='./panhandlelogworks/'>Panhandle Logworks</a>"
@@ -146,10 +150,6 @@ events:
     date: ""
     description: "<a href='./northstarbaptistchurch/'>NorthStar Baptist Church</a>"
     link: "./northstarbaptistchurch/"
-  - image: "/img/timeline/slto-logo.jpg"
-    date: ""
-    description: "<a href='./seelemonsthinkoils/'>See Lemons Think Oils</a>"
-    link: "./seelemonsthinkoils/"
 
 # First image of the Timeline
 
