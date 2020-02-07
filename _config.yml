@@ -47,11 +47,11 @@ background-img: "../img/intro-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-dynamic-typing: True
+dynamic-typing: False
 shuffle: False # Shuffle the lines.
 loop: False
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 50
+type-speed: 5
 start-delay: 200
 delete-delay: 3000
 lines: # You can add HTML Tags in the Text
