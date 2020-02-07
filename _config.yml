@@ -211,6 +211,7 @@ keybase-in-footer: True
 # Sections shown in the index page
 
 pages_list:
+  Home: 'home'
   About: 'about'
   # Blog: 'latest-post'
   Experience: 'timeline'
