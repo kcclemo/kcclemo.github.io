@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kcclemo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kcclemo.github.io
+  * I am kcclemo (https://keybase.io/kcclemo) on keybase.
+  * I have a public key ASB-MBWm5NJtLDm2r2d886lh30uPFAKFTox-43bUm_Vghwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a2e155bfeb00de12139f607e329c94d112f8a04a4d9731b661f81d2f1c5a5db90a",
+      "host": "keybase.io",
+      "kid": "01207e3015a6e4d26d2c39b6af677cf3a961df4b8f1402854e8c7ee376d49bf560870a",
+      "uid": "d938883b971fc294e54eaf1be45e2619",
+      "username": "kcclemo"
+    },
+    "merkle_root": {
+      "ctime": 1620217959,
+      "hash": "574e44ac65ba03638fa207426f71bd0f2d92d2fb0484190880eae8bfacda8b999e3b5648551f1e3f7e166082eb98197cfabba095d5aa8dd856f5f7fb3bffb772",
+      "hash_meta": "ce9dab25a2276f9071dd280d845dd4850f6139e4ff635725b38ee9365a5a9ccc",
+      "seqno": 19841777
+    },
+    "service": {
+      "entropy": "SwJD/rOI2bbBEkMcZOmUPAGv",
+      "hostname": "kcclemo.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1620217990,
+  "expire_in": 504576000,
+  "prev": "6afff775ab9c563098f5fa123bdb542167d0401ef6d31e857e2241bac733f258",
+  "seqno": 127,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfjAVpuTSbSw5tq9nfPOpYd9LjxQChU6MfuN21Jv1YIcKp3BheWxvYWTESpcCf8Qgav/3daucVjCY9foSO9tUIWfQQB720x6FfiJBuscz8ljEIP4J7JGxVbpQ4y5BVdbHLno5B3UOP1OZY7QRleVrk9QuAgHCo3NpZ8RAW66vkMKS8xd69HGMtiC254S5I1n4BX3Eoljunn0ljD0+QpnngeSRquzYBvVePSfcIefqnHwy+8+6HOPpXAulBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIANHT07GDaDyoGRh8GaNc37fV/ZUEXUXp1oKSwe7xdNio3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kcclemo
+
+==================================================================
